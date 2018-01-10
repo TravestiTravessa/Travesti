@@ -9,8 +9,10 @@ class "Ahri"
                         require("OpenPredict")
 
                         require("DamageLib")
-
-                        version = "0.03"
+                        
+                        require("Inspired")
+                                
+                        version = "1.0"
 
                         self:Update()
 
